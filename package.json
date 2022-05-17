@@ -1,0 +1,24 @@
+{
+  "name": "react-to-print-forked",
+  "version": "0.0.0",
+  "description": "Print React components in the browser",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/kmmw7l39y7",
+  "main": "src/index.js",
+  "dependencies": {
+    "prop-types": "15.7.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-tabs": "3.2.3",
+    "react-to-print": "2.14.6"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
